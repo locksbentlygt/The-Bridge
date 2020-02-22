@@ -10,10 +10,12 @@ public class PlayerLook : MonoBehaviour
     public float speed = 12f;
     public float gravity = -9.81f;
     public float jumpHeight = 3f;
-
+  
+    public float jumpTime = 10.0f;
+    private float nextJump; 
     Vector3 veloctiy;
-    bool isGrounded; 
-
+    bool isGrounded;
+    public float jumpPower;
     public Transform groundCheck;
     public float groundDistance = 0.4f;
     public LayerMask groundMask;
@@ -34,9 +36,23 @@ public class PlayerLook : MonoBehaviour
 
         controller.Move(move * speed * Time.deltaTime);
 
-        if(Input.GetButtonDown("Jump") && isGrounded) 
+        //if the player is jumping
+        if(Input.GetKey(KeyCode.Space) ) 
         {
-            veloctiy.y = Mathf.Sqrt(jumpHeight * -2 * gravity);
+
+            // jumpPower = Mathf.Sqrt(jumpHeight * 2 * gravity)/10;
+          
+            jumpPower += 0.07f;
+            if (jumpPower >= 3) { jumpPower = 3; }
+
+            veloctiy.y += jumpPower;
+            Debug.Log("Jump");
+        }else if (!Input.GetKey(KeyCode.Space)) 
+        {
+           
+            jumpPower -= 0.1f;
+            if (jumpPower <= 0) { jumpPower = 0; }
+            Debug.Log("not jump");
         }
 
         veloctiy.y -= gravity * Time.deltaTime;
