@@ -44,10 +44,10 @@ MonoBehaviour:
     y: 30
     width: 1904
     height: 931
-  m_MinSize: {x: 679, y: 494}
-  m_MaxSize: {x: 14002, y: 14044}
+  m_MinSize: {x: 681, y: 494}
+  m_MaxSize: {x: 14004, y: 14044}
   vertical: 0
-  controlID: 54
+  controlID: 124
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -67,8 +67,8 @@ MonoBehaviour:
     y: 0
     width: 386
     height: 931
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 72}
+  m_MaxSize: {x: 4002, y: 4022}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 494}
   m_MaxSize: {x: 10002, y: 14044}
   vertical: 1
-  controlID: 55
+  controlID: 56
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 222}
   m_MaxSize: {x: 8004, y: 4022}
   vertical: 0
-  controlID: 56
+  controlID: 57
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -405,7 +405,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -486,7 +486,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -567,7 +567,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -648,7 +648,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -729,7 +729,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -810,7 +810,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ext.nunit@1.0.0
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -872,7 +872,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ext.nunit@1.0.0
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -934,7 +934,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ext.nunit@1.0.0
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -996,7 +996,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ext.nunit@1.0.0
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -1059,7 +1059,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1141,7 +1141,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1223,7 +1223,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1305,7 +1305,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1387,7 +1387,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1469,7 +1469,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1551,7 +1551,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1633,7 +1633,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1715,7 +1715,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1797,7 +1797,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1879,7 +1879,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1961,7 +1961,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -2043,7 +2043,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.3
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.vscode@1.1.3
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.vscode@1.1.3
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -2110,7 +2110,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.3
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.vscode@1.1.3
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.vscode@1.1.3
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -2177,7 +2177,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.3
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.vscode@1.1.3
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.vscode@1.1.3
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -2244,7 +2244,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.3
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.vscode@1.1.3
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.vscode@1.1.3
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -2311,7 +2311,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.3
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.vscode@1.1.3
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.vscode@1.1.3
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -2378,7 +2378,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.3
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.vscode@1.1.3
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.vscode@1.1.3
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -2445,7 +2445,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.3
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.vscode@1.1.3
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.vscode@1.1.3
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -2571,7 +2571,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -2682,7 +2682,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -2793,7 +2793,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -2904,7 +2904,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -3015,7 +3015,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -3126,7 +3126,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -3237,7 +3237,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -3348,7 +3348,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -3459,7 +3459,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -3570,7 +3570,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -3681,7 +3681,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -3792,7 +3792,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -3903,7 +3903,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -4014,7 +4014,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -4125,7 +4125,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -4236,7 +4236,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -4347,7 +4347,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -4458,7 +4458,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -4569,7 +4569,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -4680,7 +4680,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -4791,7 +4791,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -4902,7 +4902,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -5013,7 +5013,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -5124,7 +5124,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -5235,7 +5235,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -5346,7 +5346,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -5457,7 +5457,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -5572,7 +5572,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 6.9.2
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.render-pipelines.lightweight@6.9.2
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.render-pipelines.lightweight@6.9.2
         m_AssetPath: Packages/com.unity.render-pipelines.lightweight
         m_Name: com.unity.render-pipelines.lightweight
         m_DisplayName: Lightweight RP
@@ -5709,7 +5709,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 6.9.2
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.render-pipelines.lightweight@6.9.2
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.render-pipelines.lightweight@6.9.2
         m_AssetPath: Packages/com.unity.render-pipelines.lightweight
         m_Name: com.unity.render-pipelines.lightweight
         m_DisplayName: Lightweight RP
@@ -5846,7 +5846,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 6.9.2
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.render-pipelines.lightweight@6.9.2
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.render-pipelines.lightweight@6.9.2
         m_AssetPath: Packages/com.unity.render-pipelines.lightweight
         m_Name: com.unity.render-pipelines.lightweight
         m_DisplayName: Lightweight RP
@@ -5977,7 +5977,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -6073,7 +6073,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -6169,7 +6169,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -6265,7 +6265,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -6361,7 +6361,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -6457,7 +6457,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -6553,7 +6553,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -6649,7 +6649,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -6745,7 +6745,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -6841,7 +6841,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -6937,7 +6937,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -7033,7 +7033,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -7129,7 +7129,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -7225,7 +7225,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -7321,7 +7321,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -7417,7 +7417,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -7513,7 +7513,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -7609,7 +7609,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -7705,7 +7705,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -7801,7 +7801,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -7923,7 +7923,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -8094,7 +8094,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -8265,7 +8265,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -8436,7 +8436,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -8607,7 +8607,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -8778,7 +8778,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -8949,7 +8949,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -9120,7 +9120,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -9291,7 +9291,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -9462,7 +9462,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -9633,7 +9633,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -9804,7 +9804,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -9975,7 +9975,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -10146,7 +10146,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -10317,7 +10317,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -10488,7 +10488,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -10659,7 +10659,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -10830,7 +10830,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -11001,7 +11001,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -11172,7 +11172,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -11343,7 +11343,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -11514,7 +11514,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -11685,7 +11685,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -11856,7 +11856,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -12027,7 +12027,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -12198,7 +12198,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -12369,7 +12369,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -12540,7 +12540,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -12711,7 +12711,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -12882,7 +12882,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -14920,7 +14920,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 6.9.2
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.render-pipelines.core@6.9.2
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.render-pipelines.core@6.9.2
         m_AssetPath: Packages/com.unity.render-pipelines.core
         m_Name: com.unity.render-pipelines.core
         m_DisplayName: Core RP Library
@@ -15040,7 +15040,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 6.9.2
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.render-pipelines.core@6.9.2
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.render-pipelines.core@6.9.2
         m_AssetPath: Packages/com.unity.render-pipelines.core
         m_Name: com.unity.render-pipelines.core
         m_DisplayName: Core RP Library
@@ -15160,7 +15160,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 6.9.2
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.render-pipelines.core@6.9.2
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.render-pipelines.core@6.9.2
         m_AssetPath: Packages/com.unity.render-pipelines.core
         m_Name: com.unity.render-pipelines.core
         m_DisplayName: Core RP Library
@@ -15281,7 +15281,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 6.9.2
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.shadergraph@6.9.2
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.shadergraph@6.9.2
         m_AssetPath: Packages/com.unity.shadergraph
         m_Name: com.unity.shadergraph
         m_DisplayName: Shader Graph
@@ -15408,7 +15408,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 6.9.2
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.shadergraph@6.9.2
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.shadergraph@6.9.2
         m_AssetPath: Packages/com.unity.shadergraph
         m_Name: com.unity.shadergraph
         m_DisplayName: Shader Graph
@@ -15535,7 +15535,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 6.9.2
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.shadergraph@6.9.2
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.shadergraph@6.9.2
         m_AssetPath: Packages/com.unity.shadergraph
         m_Name: com.unity.shadergraph
         m_DisplayName: Shader Graph
@@ -15660,7 +15660,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -15741,7 +15741,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -15822,7 +15822,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -15903,7 +15903,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -15984,7 +15984,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -16065,7 +16065,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ext.nunit@1.0.0
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -16127,7 +16127,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ext.nunit@1.0.0
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -16189,7 +16189,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ext.nunit@1.0.0
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -16251,7 +16251,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ext.nunit@1.0.0
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -16314,7 +16314,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -16396,7 +16396,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -16478,7 +16478,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -16560,7 +16560,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -16642,7 +16642,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -16724,7 +16724,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -16806,7 +16806,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -16888,7 +16888,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -16970,7 +16970,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -17052,7 +17052,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -17134,7 +17134,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -17216,7 +17216,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -17298,7 +17298,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.3
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.vscode@1.1.3
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.vscode@1.1.3
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -17365,7 +17365,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.3
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.vscode@1.1.3
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.vscode@1.1.3
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -17432,7 +17432,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.3
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.vscode@1.1.3
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.vscode@1.1.3
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -17499,7 +17499,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.3
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.vscode@1.1.3
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.vscode@1.1.3
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -17566,7 +17566,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.3
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.vscode@1.1.3
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.vscode@1.1.3
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -17633,7 +17633,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.3
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.vscode@1.1.3
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.vscode@1.1.3
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -17700,7 +17700,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.3
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.ide.vscode@1.1.3
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.ide.vscode@1.1.3
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -17826,7 +17826,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -17937,7 +17937,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -18048,7 +18048,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -18159,7 +18159,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -18270,7 +18270,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -18381,7 +18381,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -18492,7 +18492,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -18603,7 +18603,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -18714,7 +18714,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -18825,7 +18825,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -18936,7 +18936,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -19047,7 +19047,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -19158,7 +19158,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -19269,7 +19269,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -19380,7 +19380,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -19491,7 +19491,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -19602,7 +19602,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -19713,7 +19713,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -19824,7 +19824,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -19935,7 +19935,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -20046,7 +20046,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -20157,7 +20157,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -20268,7 +20268,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -20379,7 +20379,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -20490,7 +20490,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -20601,7 +20601,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -20712,7 +20712,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.6
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.postprocessing@2.1.6
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -20827,7 +20827,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 6.9.2
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.render-pipelines.lightweight@6.9.2
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.render-pipelines.lightweight@6.9.2
         m_AssetPath: Packages/com.unity.render-pipelines.lightweight
         m_Name: com.unity.render-pipelines.lightweight
         m_DisplayName: Lightweight RP
@@ -20964,7 +20964,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 6.9.2
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.render-pipelines.lightweight@6.9.2
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.render-pipelines.lightweight@6.9.2
         m_AssetPath: Packages/com.unity.render-pipelines.lightweight
         m_Name: com.unity.render-pipelines.lightweight
         m_DisplayName: Lightweight RP
@@ -21101,7 +21101,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 6.9.2
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.render-pipelines.lightweight@6.9.2
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.render-pipelines.lightweight@6.9.2
         m_AssetPath: Packages/com.unity.render-pipelines.lightweight
         m_Name: com.unity.render-pipelines.lightweight
         m_DisplayName: Lightweight RP
@@ -21232,7 +21232,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -21328,7 +21328,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -21424,7 +21424,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -21520,7 +21520,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -21616,7 +21616,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -21712,7 +21712,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -21808,7 +21808,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -21904,7 +21904,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -22000,7 +22000,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -22096,7 +22096,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -22192,7 +22192,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -22288,7 +22288,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -22384,7 +22384,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -22480,7 +22480,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -22576,7 +22576,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -22672,7 +22672,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -22768,7 +22768,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -22864,7 +22864,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -22960,7 +22960,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -23056,7 +23056,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -23178,7 +23178,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -23349,7 +23349,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -23520,7 +23520,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -23691,7 +23691,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -23862,7 +23862,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -24033,7 +24033,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -24204,7 +24204,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -24375,7 +24375,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -24546,7 +24546,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -24717,7 +24717,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -24888,7 +24888,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -25059,7 +25059,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -25230,7 +25230,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -25401,7 +25401,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -25572,7 +25572,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -25743,7 +25743,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -25914,7 +25914,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -26085,7 +26085,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -26256,7 +26256,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -26427,7 +26427,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -26598,7 +26598,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -26769,7 +26769,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -26940,7 +26940,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -27111,7 +27111,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -27282,7 +27282,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -27453,7 +27453,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -27624,7 +27624,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -27795,7 +27795,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -27966,7 +27966,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -28137,7 +28137,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -30175,7 +30175,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 6.9.2
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.render-pipelines.core@6.9.2
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.render-pipelines.core@6.9.2
         m_AssetPath: Packages/com.unity.render-pipelines.core
         m_Name: com.unity.render-pipelines.core
         m_DisplayName: Core RP Library
@@ -30295,7 +30295,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 6.9.2
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.render-pipelines.core@6.9.2
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.render-pipelines.core@6.9.2
         m_AssetPath: Packages/com.unity.render-pipelines.core
         m_Name: com.unity.render-pipelines.core
         m_DisplayName: Core RP Library
@@ -30415,7 +30415,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 6.9.2
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.render-pipelines.core@6.9.2
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.render-pipelines.core@6.9.2
         m_AssetPath: Packages/com.unity.render-pipelines.core
         m_Name: com.unity.render-pipelines.core
         m_DisplayName: Core RP Library
@@ -30536,7 +30536,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 6.9.2
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.shadergraph@6.9.2
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.shadergraph@6.9.2
         m_AssetPath: Packages/com.unity.shadergraph
         m_Name: com.unity.shadergraph
         m_DisplayName: Shader Graph
@@ -30663,7 +30663,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 6.9.2
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.shadergraph@6.9.2
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.shadergraph@6.9.2
         m_AssetPath: Packages/com.unity.shadergraph
         m_Name: com.unity.shadergraph
         m_DisplayName: Shader Graph
@@ -30790,7 +30790,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 6.9.2
         m_Source: 1
-        m_ResolvedPath: Z:\IGMProfile\Documents\GitHub\The-Bridge\Library\PackageCache\com.unity.shadergraph@6.9.2
+        m_ResolvedPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge\Library\PackageCache\com.unity.shadergraph@6.9.2
         m_AssetPath: Packages/com.unity.shadergraph
         m_Name: com.unity.shadergraph
         m_DisplayName: Shader Graph
@@ -139251,8 +139251,8 @@ MonoBehaviour:
         m_HideInEditor: 1
         m_DatePublishedTicks: 637146252790000000
       IsInstalled: 0
-    listPackagesVersion: 35
-    listPackagesOfflineVersion: 34
+    listPackagesVersion: 36
+    listPackagesOfflineVersion: 35
     searchOperationOngoing: 1
     listOperationOngoing: 0
     listOperationOfflineOngoing: 0
@@ -139538,20 +139538,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Materials
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Materials
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: Z:\IGMProfile\Documents\GitHub\The-Bridge
+  m_LastProjectPath: D:\Profiles\jtb3607\Documents\The-Bridge\The-Bridge
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: fc330000
-    m_LastClickedID: 13308
-    m_ExpandedIDs: 0000000000330000f4340000f039000000ca9a3b
+    m_SelectedIDs: 523f0000
+    m_LastClickedID: 16210
+    m_ExpandedIDs: 00000000663400009e3e0000023f0000bc42000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -139579,7 +139579,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000000330000f4340000f0390000
+    m_ExpandedIDs: 0000000066340000023f0000bc420000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -139702,9 +139702,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 1c0cffff
-      m_LastClickedID: 0
-      m_ExpandedIDs: 76fbffff7e3d0000
+      m_SelectedIDs: 3e450000
+      m_LastClickedID: 17726
+      m_ExpandedIDs: 9219ffff4a95ffff7e450000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -139764,9 +139764,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -125.25137, y: -251.81787, z: -346.6498}
+    m_Target: {x: 807.46497, y: -178.39821, z: 185.9076}
     speed: 2
-    m_Value: {x: -125.25137, y: -251.81787, z: -346.6498}
+    m_Value: {x: 807.46497, y: -178.39821, z: 185.9076}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -139795,9 +139795,9 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.059822883, y: 0.93931264, z: -0.21194881, w: -0.2637375}
+    m_Target: {x: 0.119797125, y: 0.62859446, z: -0.098994374, w: 0.7623036}
     speed: 2
-    m_Value: {x: -0.059811916, y: 0.93914044, z: -0.21190996, w: -0.26368916}
+    m_Value: {x: 0.11992217, y: 0.62732834, z: -0.09879536, w: 0.7630973}
   m_Size:
     m_Target: 652.9554
     speed: 2

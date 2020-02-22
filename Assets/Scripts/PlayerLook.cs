@@ -42,7 +42,7 @@ public class PlayerLook : MonoBehaviour
 
             // jumpPower = Mathf.Sqrt(jumpHeight * 2 * gravity)/10;
           
-            jumpPower += 0.07f;
+            jumpPower += 0.5f;
             if (jumpPower >= 3) { jumpPower = 3; }
 
             veloctiy.y += jumpPower;
