@@ -9,8 +9,8 @@ public class PlayerLook : MonoBehaviour
 
     public float speed = 12f;
     public float gravity = -9.81f;
-    public float jumpHeight = 3f;
-  
+   
+    public float timer = 0f;
     public float jumpTime = 10.0f;
     private float nextJump; 
     Vector3 veloctiy;
@@ -19,6 +19,7 @@ public class PlayerLook : MonoBehaviour
     public Transform groundCheck;
     public float groundDistance = 0.4f;
     public LayerMask groundMask;
+
     // Update is called once per frame
     void Update()
     {
@@ -39,17 +40,28 @@ public class PlayerLook : MonoBehaviour
         //if the player is jumping
         if(Input.GetKey(KeyCode.Space) ) 
         {
+           
 
+            timer += Time.deltaTime;
             // jumpPower = Mathf.Sqrt(jumpHeight * 2 * gravity)/10;
           
-            jumpPower += 0.5f;
+            jumpPower += 0.8f;
+            
+            
             if (jumpPower >= 3) { jumpPower = 3; }
-
-            veloctiy.y += jumpPower;
+            if (timer >= .7)
+            {
+                veloctiy.y += 0;
+            }
+            else
+            {
+                veloctiy.y += jumpPower;
+            }
+            
             Debug.Log("Jump");
         }else if (!Input.GetKey(KeyCode.Space)) 
         {
-           
+            timer = 0f;
             jumpPower -= 0.1f;
             if (jumpPower <= 0) { jumpPower = 0; }
             Debug.Log("not jump");
