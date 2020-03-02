@@ -58,13 +58,13 @@ public class PlayerLook : MonoBehaviour
                 veloctiy.y += jumpPower;
             }
             
-            Debug.Log("Jump");
+           // Debug.Log("Jump");
         }else if (!Input.GetKey(KeyCode.Space)) 
         {
             timer = 0f;
             jumpPower -= 0.1f;
             if (jumpPower <= 0) { jumpPower = 0; }
-            Debug.Log("not jump");
+           // Debug.Log("not jump");
         }
 
         veloctiy.y -= gravity * Time.deltaTime;

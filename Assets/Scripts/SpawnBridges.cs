@@ -4,15 +4,14 @@ using UnityEngine;
 
 public class SpawnBridges : MonoBehaviour
 {
-    public GameObject BridgePath;
+    public GameObject[] BridgePath1;
+    
     public GameObject Player;
    
     // Start is called before the first frame update
     void Start()
     {
-     
-       
-        BridgePath.SetActive(false);
+        
     }
 
     // Update is called once per frame
@@ -20,9 +19,7 @@ public class SpawnBridges : MonoBehaviour
     {  
     }
 
-    private void OnCollisionEnter(Collision collision)
-    {
-       
-    }
+   
+
 
 }

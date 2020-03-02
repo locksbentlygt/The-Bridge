@@ -7,6 +7,11 @@ TagManager:
   - Key
   - BridgeConneciton
   - BridgePath
+  - BeridgePath1
+  - BridgePath2
+  - BridgePath3
+  - Key1
+  - Terrain
   layers:
   - Default
   - TransparentFX
